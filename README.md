@@ -4,8 +4,6 @@
 __BlockchainDemo__ represents simpe implementation of blockchain and decentralized blockchain network by using the JavaScript programming language. Project is consisted of backend API for manipulating blockchain and simple GUI which allows to track specific block of the blockchain, user or transaction.
 ___
 
-## Short description
-
 ### Starting
 We start server by running :<br>
 `npm run node_x` where x is in (1..5)
