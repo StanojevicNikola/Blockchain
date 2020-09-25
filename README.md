@@ -19,3 +19,6 @@ Once the server is up you can interact with it, and access GUI at http://localho
 * It will be hosted on a decentralized blockchain network.
 * A consensus algorithms to verify that the network nodes have valid data and are synchronized.
 * A broadcasting system to keep the data in the blockchain network synchronized.
+
+#### Block explorer interface: <br>
+![GUI](screenshot.png)
