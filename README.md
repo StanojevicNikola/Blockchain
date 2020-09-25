@@ -10,7 +10,7 @@ ___
 We start server by running :<br>
 `npm run node_x` where x is in (1..5)
 
-Once the server is up you can interact with it, and access GUI at [http://localhost:xxxx/blockchain-explorer]
+Once the server is up you can interact with it, and access GUI at http://localhost:{port}/block-explorer
 
 ### API features
 * A proof of work algorithm to secure the network.
